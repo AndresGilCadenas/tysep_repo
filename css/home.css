@@ -27,3 +27,8 @@ p{
 #barrita{
     background-color: rgb(19, 37, 51);
 }
+.letra{
+    text-align: justify; 
+    font-weight: 250; 
+    font-size: large;
+}
