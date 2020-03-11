@@ -1,4 +1,29 @@
 #logo{
-    width: 100px;
-    height: 150px;
+    width: 150px;
+    height: 56px;
+}
+
+#feature{
+    background-color: rgb(246, 247, 249);
+}
+
+h2{
+    text-align: center;
+    
+}
+#clientes{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#footer{
+    
+    background-color: rgb(246, 247, 249);
+}
+p{
+    text-align:center;
+}
+#barrita{
+    background-color: rgb(19, 37, 51);
 }
